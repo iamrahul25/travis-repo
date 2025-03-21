@@ -1,0 +1,3 @@
+language: python
+script:
+  - bash generate_file2.sh
